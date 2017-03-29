@@ -1,3 +1,8 @@
+package com.lxs.impl;
+
+import com.lxs.inter.SingleObject;
+import com.lxs.util.Show;
+
 /**
  * Created by carry on 17-3-20.
  * 懒汉，线程不安全

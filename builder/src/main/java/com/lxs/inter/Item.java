@@ -1,7 +1,5 @@
 package com.lxs.inter;
 
-import javafx.util.Pair;
-
 /**
  * Created by carry on 17-3-21.
  */

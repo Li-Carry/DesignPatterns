@@ -1,3 +1,8 @@
+package com.lxs.impl;
+
+import com.lxs.inter.SingleObject;
+import com.lxs.util.Show;
+
 /**
  * Created by carry on 17-3-20.
  * 枚举
@@ -10,7 +15,7 @@
  * 不过，由于 JDK1.5 之后才加入 enum 特性，用这种方式写不免让人感觉生疏，在实际工作中，也很少用。
  * 不能通过 reflection attack 来调用私有构造方法。
  */
-public enum SingleObject6 implements SingleObject{
+public enum SingleObject6 implements SingleObject {
     instance;
 
     @Override

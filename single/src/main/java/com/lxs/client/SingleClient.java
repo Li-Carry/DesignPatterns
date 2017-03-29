@@ -1,10 +1,11 @@
+package com.lxs.client;
+
+import com.lxs.factory.SingleFactory;
+import com.lxs.impl.*;
+
 /**
  * Created by carry on 17-3-20.
  */
-class MyThread extends Thread {
-
-}
-
 
 public class SingleClient {
     public static void main(String[] args) {

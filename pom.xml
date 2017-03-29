@@ -23,7 +23,8 @@
     <modules>
         <module>abstractFactory</module>
         <module>builder</module>
-        <module>Decorator</module>
+        <module>decorator</module>
+        <module>single</module>
     </modules>
 
 

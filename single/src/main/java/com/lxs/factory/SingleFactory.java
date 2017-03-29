@@ -1,3 +1,8 @@
+package com.lxs.factory;
+
+import com.lxs.impl.*;
+import com.lxs.inter.SingleObject;
+
 /**
  * Created by carry on 17-3-20.
  */

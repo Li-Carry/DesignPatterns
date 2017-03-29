@@ -1,3 +1,5 @@
+package com.lxs.util;
+
 /**
  * Created by carry on 17-3-20.
  */
