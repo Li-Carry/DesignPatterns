@@ -1,0 +1,6 @@
+com/lxs/decorator/ShapeDecorator.class
+com/lxs/inter/Shape.class
+com/lxs/impl/Rectangle.class
+com/lxs/impl/Circle.class
+com/lxs/impl/RedShapeDecorator.class
+com/lxs/client/DecoratorPatternDemo.class
